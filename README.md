@@ -2,7 +2,7 @@
 
 **`Beginer`**
 
-I am a beginer programmer with big ambissions and ideas
+I am a programmer with big ambitions and ideas
 
    <p align="left">
       <a href="https://github.com/mshbebik?tab=followers">
