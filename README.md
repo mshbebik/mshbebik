@@ -2,7 +2,7 @@
 
 **`Beginer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I am a beginer programmer with big ambissions and ideas
 
    <p align="left">
       <a href="https://github.com/mshbebik?tab=followers">
